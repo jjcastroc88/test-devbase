@@ -1,0 +1,17 @@
+.person-container {
+  margin-top: 20px;
+}
+
+.button-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.person-image {
+  width: 50px;
+}
+
+.person-name {
+  font-weight: bold;
+}

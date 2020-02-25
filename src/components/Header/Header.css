@@ -1,0 +1,14 @@
+.header-content {
+  background-color: #000000;
+  color: #ffffff;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 50px;
+}
+
+.back-button {
+  position: absolute;
+  left: 0;
+  cursor: pointer;
+}
